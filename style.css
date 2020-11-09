@@ -1,0 +1,496 @@
+
+
+
+body
+{
+	margin: 0 auto;
+	padding: 0;
+	
+	
+ 
+}
+.header
+{
+	overflow:hidden;
+	width: 1410px;
+	margin:0px auto;
+	padding: 0;
+	height: 600px;
+	background-image:  url(image/img01.jpg);
+	background-repeat: repeat;
+	background-color: yellow;
+}
+.header1
+{
+	overflow:hidden; 
+	margin: 0px auto;
+	padding: 0;
+	height: 150px;
+	width: 1000px;
+}
+.logo
+{
+	
+	width: 400px;
+	float: left;
+	font-size: 30px;
+	line-height: 120px;
+	letter-spacing: -2px;
+	color: #12212F;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+	font-family:  Georgia, "Times New Roman", Times, serif;	
+}
+#menu {
+	float: right;
+	width: 600px;
+	height: 90px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#menu ul {
+	float: right;
+	margin: 0;
+	padding: 50px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+
+#menu a {
+	display: block;
+	margin-right: 1px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #12212F;
+	border: none;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#menu .current_page_item a {
+	background: #132434;
+	border-radius: 5px;
+}
+.slider
+{
+	height: 440px;
+	width: 1000px;
+	overflow:hidden; 
+	margin: 0px auto;
+
+}
+.contain
+{
+	height: 800px;
+	width: 1000px;
+	margin: 0px auto;
+	padding: 0;
+}
+.conup
+{
+	overflow: hidden;
+	width: 1000px;
+	margin: 0px auto;
+	padding: 30px 0px;
+	border-bottom: 5px solid #E9EAEE;	
+}
+.conup h2
+{
+	padding: 0px 0px 20px 0px;
+	font-size: 30px;
+}
+.c1
+{
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+.c2
+{
+	float: left;
+	width: 300px;
+}
+.c3
+{
+	float: right;
+	width: 300px;
+}
+.bbb a
+{
+	display: block;
+	float: left;
+	width: 88px;
+	padding: 5px 5px;
+	margin-right: 10px;
+	background: #132434;
+	border-radius: 5px;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+}
+
+.condown
+{
+	height: 400px;
+	width: 1000px;
+	margin: 0px auto;
+	padding: 0;
+}
+.condown h2{
+	padding: 0px 0px 20px 0px;
+	font-size: 30px;
+}
+.con1
+{
+	overflow:hidden;
+	margin-bottom: 40px;
+}
+.con2
+{
+	float: left;
+	width: 270px;
+	margin-left:  800px;
+	margin-top: -280px;
+	padding: 30px 0px 0px 0px;
+}
+.button{
+	padding-top: -20px;
+	margin-bottom: -200px;
+}
+
+.m1 {
+	display: block;
+	float: left;
+	width: 88px;
+	padding: 5px 5px;
+	margin-right: 10px;
+	background: #132434;
+	border-radius: 5px;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+}
+
+.o1 {
+	display: block;
+	float: left;
+	width: 88px;
+	padding: 5px 5px;
+	background: #132434;
+	border-radius: 5px;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+}
+.con2 ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.con2 li {
+	margin: 0;
+	padding: 0;
+}
+
+.con2 li ul {
+	margin: 0px 0px;
+	padding-bottom: 30px;
+}
+
+.con2 li li {
+	line-height: 40px;
+	border-bottom: 1px solid #E7EBED;
+	margin: 0px 0px;
+	border-left: none;
+}
+
+.con2 li li span {
+	display: block;
+	margin-top: -20px;
+	padding: 0;
+	font-size: 11px;
+	font-style: italic;
+}
+
+.con2 li li a {
+	padding: 0px 0px 0px 20px;
+	background: url(images/img04.jpg) no-repeat left 50%;
+	color: black;
+}
+
+.con2 h2 {
+	height: 38px;
+	padding: 0px 0px 30px 0px;
+	letter-spacing: -.5px;
+	font-size: 1.8em;
+	color: #222222;
+}
+
+.con2 p {
+	margin: 0 0px;
+	padding: 0px 30px 20px 30px;
+	text-align: justify;
+}
+
+.con2 a {
+	border: none;
+}
+
+.con2 a:hover {
+	text-decoration: underline;
+}
+.footer
+{
+	height: 100px;
+	width: 1410px;
+	margin: 0px auto;
+	padding: 0;
+	background: url(image/img05.jpg)repeat;
+}
+.f1
+{
+	margin: 0;
+	padding-top: 10px;
+	letter-spacing: 1px;
+	line-height: normal;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: center;
+	color: white;
+}
+/*CONTECT*/
+.g1
+{
+	overflow: hidden;
+	width: 1000px;
+	margin: 0px auto;
+	padding: 30px 0px;
+	border-bottom: 5px solid #E9EAEE;	
+}
+.a1
+{
+	margin-left: 400px;
+	font-size: 30px; 
+	color:#0061FF;
+	
+}
+.a1 ul
+{
+	font-size: 20px;
+	margin-left: -120px;
+    color: black;
+}
+.p1
+{
+	float: left;
+	margin: 0px auto;
+	padding: 0;
+	margin-top: 100px;
+	height: 500px;
+}
+.p2
+{
+	float: right;
+	margin: 0px auto;
+	padding: 0;
+	margin-top: -350px;
+}
+
+input,type,text
+{
+	border-radius: 10px 10px 10px 10px;
+	height: 30px;
+}
+/*PRODUCT*/
+.cont
+{
+	height:2600px;
+	width: 1000px;
+	margin: 0px auto;
+	padding: 0;
+	
+}
+.cu
+{
+	width: 1000px;
+	overflow: hidden;
+	margin: 0px auto;
+	border-bottom: 5px solid #E9EAEE;
+	padding: 30px 0px;
+}
+
+
+.co1
+{
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+.co2
+{
+	float: left;
+	width: 300px;
+}
+.co3
+{
+	float: right;
+	width: 300px;
+}
+.cu1
+{
+	width: 1000px;
+	overflow: hidden;
+	margin: 0px auto;
+	border-bottom: 5px solid #E9EAEE;
+	padding: 30px 0px;
+}
+
+
+.co4
+{
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+.co5
+{
+	float: left;
+	width: 300px;
+}
+.co6
+{
+	float: right;
+	width: 300px;
+}
+.cu2
+{
+	width: 1000px;
+	overflow: hidden;
+	margin: 0px auto;
+	border-bottom: 5px solid #E9EAEE;
+	padding: 30px 0px;
+}
+
+
+.co7
+{
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+.co8
+{
+	float: left;
+	width: 300px;
+}
+.co9
+{
+	float: right;
+	width: 300px;
+}
+.cu3
+{
+	width: 1000px;
+	overflow: hidden;
+	margin: 0px auto;
+	border-bottom: 5px solid #E9EAEE;
+	padding: 30px 0px;
+}
+
+
+.co10
+{
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+.co11
+{
+	float: left;
+	width: 300px;
+}
+.co12
+{
+	float: right;
+	width: 300px;
+}
+.cu4
+{
+	width: 1000px;
+	overflow: hidden;
+	margin: 0px auto;
+	border-bottom: 5px solid #E9EAEE;
+	padding: 30px 0px;
+}
+
+
+.co13
+{
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+.co14
+{
+	float: left;
+	width: 300px;
+}
+.co15
+{
+	float: right;
+	width: 300px;
+}
+/*about*/
+.e1
+{
+	height: 850px;
+	width: 1000px;
+	margin:0px  auto;
+	padding:0;
+	font-size: 18px;
+}
+.e2
+{
+	width: 1000px;
+	overflow: hidden;
+	margin: 0px auto;
+	border-bottom: 5px solid #E9EAEE;
+	
+}
+.e3
+{
+	width: 1000px;
+	
+	margin: 0px auto;
+	border-bottom: 5px solid #E9EAEE;
+	
+}
+/*ragistration*/
+.r1
+{
+	height:auto;
+	width: 1000px;
+	margin: 0px auto;
+	padding: 0;
+	font-size: 20px;
+}
+table,tr,td
+{
+ border bottom: 5px solid black; 
+}
